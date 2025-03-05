@@ -8,4 +8,4 @@
 
 ## Guides
 
-* [How to import Facebook Ads data into Google Sheets](guides/how-to-import-facebook-ads-data-into-google-sheets.md)
+* [Import Facebook Ads data](guides/import-facebook-ads-data.md)
