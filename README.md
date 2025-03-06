@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the official Uniquery Help Center. [Uniquery](https://uniquery.io/) is designed with one goal in mind: to simplify data workflows for individuals and teams by connecting APIs directly to your Google Sheets.&#x20;
+Welcome to the official Uniquery Help Center. [Uniquery](https://uniquery.io/) is designed with one goal in mind: to simplify data workflows for individuals and teams by connecting APIs and data sources directly to your Google Sheets.&#x20;
 
 <figure><img src=".gitbook/assets/Header.png" alt=""><figcaption></figcaption></figure>
 
