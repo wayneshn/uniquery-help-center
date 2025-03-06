@@ -9,3 +9,7 @@
 ## Guides
 
 * [Import Facebook Ads data](guides/import-facebook-ads-data.md)
+
+## Tickets
+
+* [Submit ticket](tickets/submit-ticket.md)
