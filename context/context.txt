@@ -80,45 +80,7 @@ Looking Ahead
 As the landscape of digital marketing continues to evolve at an unprecedented pace, tools like Uniquery that simplify and enhance the process of marketing data aggregation will become indispensable. Uniquery’s innovative approach to data integration not only democratizes access to powerful insights for marketers of all technical levels but also propels businesses towards a more data-driven, informed future. In sum, Uniquery stands at the forefront of revolutionizing marketing strategies through the power of efficient and effective data aggregation.
 [1]
 User
-write tutorial on how to pull facebook ads data into Google Sheets using Uniquery. MAKE SURE USE PROVIDED FILES
-Pere
-Tutorial: Pulling Facebook Ads Data into Google Sheets Using Uniquery
-Integrating Facebook Ads data into Google Sheets enables a streamlined approach to analyzing your advertising performance without the complications of manual data extraction. Uniquery, a powerful yet user-friendly API Connector for Google Sheets, simplifies this process, allowing even those without coding experience to access and organize their Facebook Ads data efficiently. Here's a step-by-step guide to get you started:
-Step 1: Setting Up Uniquery in Google Sheets
-Install Uniquery Add-on: Open a new Google Sheets document, click on "Extensions" > "Add-ons" > "Get add-ons". Search for "Uniquery API Connector" and install it. This process is straightforward and requires no coding skills, making Uniquery accessible to all users[1].
-Launch Uniquery: Once installed, Uniquery can be accessed from the "Extensions" menu within Google Sheets. Simply navigate to "Uniquery API Connector" > "Launch" to open the Uniquery panel on the right side of your Google Sheets interface.
-Step 2: Gathering Facebook Ads API Details
-Before you can pull data into Google Sheets, you need access to your Facebook Ads API. This involves a few steps on the Facebook platform:
-Access Facebook Developer Console: Log into your Facebook account and navigate to the Facebook for Developers page to create a new app if you haven't already. This app will act as the medium through which Uniquery accesses your Facebook Ads data.
-Obtain API Key and URL: Once your app is set up, go to the "Tools" > "Graph API Explorer" section to get your API URL and Access Token (API Key). These credentials enable secure access to your Facebook Ads data.
-Step 3: Importing Facebook Ads Data into Google Sheets
-With Uniquery launched and your Facebook Ads API details at hand, you're now ready to import your data:
-Enter API Details in Uniquery: In the Uniquery panel within Google Sheets, you'll find fields to enter your API URL and Access Token. Paste the Facebook Ads API URL and your Access Token accordingly[2].
-Specify Data Requirements: Uniquery allows you to specify exactly which data you need from your Facebook Ads campaigns. Utilize customization options to select the metrics, date ranges, and other parameters important to your analysis.
-Execute and Import Data: After setting up your API details and specifying your data requirements, hit the "Import" button in Uniquery. The tool will pull the requested Facebook Ads data directly into your Google Sheet.
-Step 4: Analyzing Your Facebook Ads Data
-With your Facebook Ads data imported into Google Sheets, you can now utilize the spreadsheet's powerful analytical tools to:
-Analyze Performance Metrics: Sort, filter, and apply formulas to analyze key performance indicators such as click-through rates, impressions, conversion rates, and cost per acquisition.
-Visualize Data: Create charts and graphs within Google Sheets to visualize your advertising performance, making it easier to identify trends and make data-driven decisions.
-Share Insights: Seamlessly share your findings with team members or stakeholders directly from Google Sheets, ensuring everyone is informed and aligned on your advertising strategies.
-Conclusion
-Using Uniquery to integrate Facebook Ads data into Google Sheets provides a powerful, efficient, and codeless solution to analyze and optimize your advertising efforts. By following this straightforward tutorial, you can unlock valuable insights into your campaigns, drive better decision-making, and ultimately enhance your ROI.
-[1][2]
-User
-in step 3, provide more details on API details and where to put them
-Pere
-In Step 3 of our tutorial on pulling Facebook Ads data into Google Sheets using Uniquery, we’ll delve deeper into handling API details and the specifics of inputting them into Uniquery. This step is crucial for ensuring a seamless and secure data import process.
-Step 3: Importing Facebook Ads Data into Google Sheets - Expanded
-To successfully import your Facebook Ads data into Google Sheets, Uniquery requires you to input the correct API URL and Access Token. Here's how to detail this process:
-3.1 Finding the Facebook Ads API URL and Access Token
-API URL: The API URL is the endpoint provided by Facebook that Uniquery will utilize to request your ads data. You can find this by navigating to the Facebook for Developers site, selecting your app, and looking under the 'Graph API Explorer'. The typical format for the Facebook Ads API URL includes the base URL (https://graph.facebook.com/) followed by the version of the API and your ad account ID (e.g., v11.0/act_YOUR_AD_ACCOUNT_ID/insights). Make sure to check the latest documentation for specifics.
-Access Token: Your Access Token serves as a key to authenticate and authorize your request to Facebook's servers. It can be retrieved from the same Graph API Explorer page where you found your API URL. Be mindful to select an access token with permissions to access your Facebook Ads data.
-3.2 Inputting API Details in Uniquery
-Once you have your API URL and Access Token, you'll input them into Uniquery through the following steps within Google Sheets:
-Open Uniquery Panel: With Uniquery already launched (as outlined in Step 1), you should see the Uniquery panel on the right side of your Google Sheets interface.
-API URL Field: Locate the field labeled as 'API URL’ or similar. Here, you will paste the API URL you obtained from the Facebook for Developers site. This URL directs Uniquery where to send the request for your ads data.
-Access Token Field: Look for a field typically labeled as 'Access Token’, 'API Key', or 'Bearer Token’. This is where you input the Access Token obtained from Facebook. The Access Token authenticates your request, proving to Facebook that you have authorization to access the data.
-Guidance and Tips:
+w
 Ensure Accuracy: Double-check that you’ve correctly copied and pasted the API URL and Access Token to avoid authentication errors or data retrieval issues.
 Consider Security: Access Tokens are sensitive pieces of information. Ensure that you're not sharing your spreadsheet with access tokens with unauthorized individuals.
 Use Uniquery's Customization Options: Uniquery often offers additional fields or options allowing you to further specify the data you wish to import, such as specific metrics, date ranges, or filters. Utilize these to tailor the imported data to your analysis needs.
@@ -920,42 +882,7 @@ Integrating Facebook Ads data into Google Sheets enables a streamlined approach 
 Step 1: Setting Up Uniquery in Google Sheets
 Install Uniquery Add-on: Open a new Google Sheets document, click on "Extensions" > "Add-ons" > "Get add-ons". Search for "Uniquery API Connector" and install it. This process is straightforward and requires no coding skills, making Uniquery accessible to all users[1].
 Launch Uniquery: Once installed, Uniquery can be accessed from the "Extensions" menu within Google Sheets. Simply navigate to "Uniquery API Connector" > "Launch" to open the Uniquery panel on the right side of your Google Sheets interface.
-Step 2: Gathering Facebook Ads API Details
-Before you can pull data into Google Sheets, you need access to your Facebook Ads API. This involves a few steps on the Facebook platform:
-Access Facebook Developer Console: Log into your Facebook account and navigate to the Facebook for Developers page to create a new app if you haven't already. This app will act as the medium through which Uniquery accesses your Facebook Ads data.
-Obtain API Key and URL: Once your app is set up, go to the "Tools" > "Graph API Explorer" section to get your API URL and Access Token (API Key). These credentials enable secure access to your Facebook Ads data.
-Step 3: Importing Facebook Ads Data into Google Sheets
-With Uniquery launched and your Facebook Ads API details at hand, you're now ready to import your data:
-Enter API Details in Uniquery: In the Uniquery panel within Google Sheets, you'll find fields to enter your API URL and Access Token. Paste the Facebook Ads API URL and your Access Token accordingly[2].
-Specify Data Requirements: Uniquery allows you to specify exactly which data you need from your Facebook Ads campaigns. Utilize customization options to select the metrics, date ranges, and other parameters important to your analysis.
-Execute and Import Data: After setting up your API details and specifying your data requirements, hit the "Import" button in Uniquery. The tool will pull the requested Facebook Ads data directly into your Google Sheet.
-Step 4: Analyzing Your Facebook Ads Data
-With your Facebook Ads data imported into Google Sheets, you can now utilize the spreadsheet's powerful analytical tools to:
-Analyze Performance Metrics: Sort, filter, and apply formulas to analyze key performance indicators such as click-through rates, impressions, conversion rates, and cost per acquisition.
-Visualize Data: Create charts and graphs within Google Sheets to visualize your advertising performance, making it easier to identify trends and make data-driven decisions.
-Share Insights: Seamlessly share your findings with team members or stakeholders directly from Google Sheets, ensuring everyone is informed and aligned on your advertising strategies.
-Conclusion
-Using Uniquery to integrate Facebook Ads data into Google Sheets provides a powerful, efficient, and codeless solution to analyze and optimize your advertising efforts. By following this straightforward tutorial, you can unlock valuable insights into your campaigns, drive better decision-making, and ultimately enhance your ROI.
-[1][2]
-User
-in step 3, provide more details on API details and where to put them
-Pere
-In Step 3 of our tutorial on pulling Facebook Ads data into Google Sheets using Uniquery, we’ll delve deeper into handling API details and the specifics of inputting them into Uniquery. This step is crucial for ensuring a seamless and secure data import process.
-Step 3: Importing Facebook Ads Data into Google Sheets - Expanded
-To successfully import your Facebook Ads data into Google Sheets, Uniquery requires you to input the correct API URL and Access Token. Here's how to detail this process:
-3.1 Finding the Facebook Ads API URL and Access Token
-API URL: The API URL is the endpoint provided by Facebook that Uniquery will utilize to request your ads data. You can find this by navigating to the Facebook for Developers site, selecting your app, and looking under the 'Graph API Explorer'. The typical format for the Facebook Ads API URL includes the base URL (https://graph.facebook.com/) followed by the version of the API and your ad account ID (e.g., v11.0/act_YOUR_AD_ACCOUNT_ID/insights). Make sure to check the latest documentation for specifics.
-Access Token: Your Access Token serves as a key to authenticate and authorize your request to Facebook's servers. It can be retrieved from the same Graph API Explorer page where you found your API URL. Be mindful to select an access token with permissions to access your Facebook Ads data.
-3.2 Inputting API Details in Uniquery
-Once you have your API URL and Access Token, you'll input them into Uniquery through the following steps within Google Sheets:
-Open Uniquery Panel: With Uniquery already launched (as outlined in Step 1), you should see the Uniquery panel on the right side of your Google Sheets interface.
-API URL Field: Locate the field labeled as 'API URL’ or similar. Here, you will paste the API URL you obtained from the Facebook for Developers site. This URL directs Uniquery where to send the request for your ads data.
-Access Token Field: Look for a field typically labeled as 'Access Token’, 'API Key', or 'Bearer Token’. This is where you input the Access Token obtained from Facebook. The Access Token authenticates your request, proving to Facebook that you have authorization to access the data.
-Guidance and Tips:
-Ensure Accuracy: Double-check that you’ve correctly copied and pasted the API URL and Access Token to avoid authentication errors or data retrieval issues.
-Consider Security: Access Tokens are sensitive pieces of information. Ensure that you're not sharing your spreadsheet with access tokens with unauthorized individuals.
-Use Uniquery's Customization Options: Uniquery often offers additional fields or options allowing you to further specify the data you wish to import, such as specific metrics, date ranges, or filters. Utilize these to tailor the imported data to your analysis needs.
-Following these detailed steps for entering your API details into Uniquery, you're set to securely and efficiently import your Facebook Ads data into Google Sheets. This process streamlines data analysis, aiding in strategic decision-making and optimization of your advertising campaigns.
+
 
 Skip to content
 Uniquery
