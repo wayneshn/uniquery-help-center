@@ -6,6 +6,14 @@ This integration enables users to access a wide range of metrics and dimensions 
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
+### Google Ads API uses micros
+
+{% hint style="warning" %}
+Please be aware that, in Google Ads API, any tags containing "\_micros" will return currency values in micros. Micros are a unit of measurement representing **`one-millionth`** of the base currency unit. To convert micros to the standard currency format, you'll need to divide the value by 1,000,000.
+
+For example, if a field returns a value of `150000000` micros, the equivalent amount in the account currency would be 150.00.
+{% endhint %}
+
 ### Metrics
 
 Metrics are quantitative measurements that provide insights into the performance of your Google Ads campaigns.&#x20;
