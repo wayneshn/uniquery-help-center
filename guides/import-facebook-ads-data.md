@@ -25,19 +25,19 @@ Uniquery is a [Google Sheets addon](https://workspace.google.com/marketplace/app
 
 **3. Search in Google Workspace Marketplace**: In the search bar, type “Uniquery” and select the first app that appears.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Install Uniquery**: Follow the on-screen prompts to install the add-on.
 
 **5. Launch Uniquery**: Post-installation, you can access Uniquery from the ‘Extensions’ tab, where it’s listed as an add-on.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Authorizing Uniquery for Facebook Ads Data Import
 
 Before importing any data, you need to authorize Uniquery to access your Facebook Ads account:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Open Uniquery Sidebar**: In the sidebar of your spreadsheet, launch Uniquery.
 2. **Link Your Facebook Account**: Navigate to Create > Manage Connections via the menu icon, click ‘Add Connection’, and select Facebook for linkage.
@@ -49,7 +49,7 @@ Now that Uniquery is set up and authorized, you’re ready to import Facebook Ad
 
 On the top Create menu, select “Create report”, and on the next page, select Facebook Ads. Now you can see the Facebook Ads report configuration page.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The first step of creating a Facebook Ads report is to select a date range for the report. In this example, we will select the date range of “Month to date,” meaning that the report will contain data from the first day of the current month to today.
 
@@ -59,7 +59,7 @@ The second step of creating a Facebook Ads report in Google Sheets involves sele
 
 **Metrics**
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Metrics refer to the quantitative measurements of your Facebook Ads performance. These are numerical data points that tell you how your campaigns are performing in terms of achieving your marketing objectives. Examples of metrics you might consider including in your report are:
 

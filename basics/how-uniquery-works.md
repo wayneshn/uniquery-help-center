@@ -1,3 +1,10 @@
+---
+description: >-
+  Uniquery is a Google Sheets addon that connects Google Sheets with external
+  data sources. By importing data directly into Sheets, it streamlines data
+  management and analysis. The addon can be installe
+---
+
 # How Uniquery works?
 
 Uniquery currently is a Google Sheets addon designed to facilitate the connection between Google Sheets and various external data sources. By using Uniquery, users can import data from these sources directly into their Google Sheets, enabling efficient data management and analysis.

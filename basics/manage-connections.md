@@ -1,3 +1,10 @@
+---
+description: >-
+  The Manage Connections feature in Uniquery facilitates seamless integration
+  between Google Sheets and external APIs, supporting custom OAuth 2.0 flows for
+  platforms beyond preset options.
+---
+
 # Manage connections
 
 The Manage Connections feature is crucial for creating connections between Google Sheets and external APIs using Uniquery. It supports custom OAuth 2.0 flows, enabling users to connect with platforms not available in Uniquery's preset integrations.

@@ -13,7 +13,7 @@ Welcome to Uniquery, your go-to Google Sheets add-on for effortlessly importing 
 1. In the Uniquery panel, find and click on the **Create query** button located in the top menu.
 2. A new query configuration window will open.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Configure Your API Query
 
