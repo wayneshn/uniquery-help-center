@@ -5,6 +5,7 @@
 ## Basics
 
 * [How Uniquery works?](basics/how-uniquery-works.md)
+* [Manage connections](basics/manage-connections.md)
 
 ## Guides
 
