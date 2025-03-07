@@ -1,4 +1,4 @@
-# How to import Facebook Ads data into Google Sheets
+# Import Facebook Ads data
 
 In this post, we will go through how to begin importing Facebook Ads into Google Sheets using Uniquery, ensuring that your marketing analysis is as smooth and efficient as possible.
 
@@ -21,23 +21,23 @@ Uniquery is a [Google Sheets addon](https://workspace.google.com/marketplace/app
 \
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 **3. Search in Google Workspace Marketplace**: In the search bar, type “Uniquery” and select the first app that appears.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Install Uniquery**: Follow the on-screen prompts to install the add-on.
 
 **5. Launch Uniquery**: Post-installation, you can access Uniquery from the ‘Extensions’ tab, where it’s listed as an add-on.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Authorizing Uniquery for Facebook Ads Data Import
 
 Before importing any data, you need to authorize Uniquery to access your Facebook Ads account:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Open Uniquery Sidebar**: In the sidebar of your spreadsheet, launch Uniquery.
 2. **Link Your Facebook Account**: Navigate to Create > Manage Connections via the menu icon, click ‘Add Connection’, and select Facebook for linkage.
@@ -49,7 +49,7 @@ Now that Uniquery is set up and authorized, you’re ready to import Facebook Ad
 
 On the top Create menu, select “Create report”, and on the next page, select Facebook Ads. Now you can see the Facebook Ads report configuration page.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The first step of creating a Facebook Ads report is to select a date range for the report. In this example, we will select the date range of “Month to date,” meaning that the report will contain data from the first day of the current month to today.
 
@@ -59,7 +59,7 @@ The second step of creating a Facebook Ads report in Google Sheets involves sele
 
 **Metrics**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Metrics refer to the quantitative measurements of your Facebook Ads performance. These are numerical data points that tell you how your campaigns are performing in terms of achieving your marketing objectives. Examples of metrics you might consider including in your report are:
 
@@ -71,7 +71,7 @@ Metrics refer to the quantitative measurements of your Facebook Ads performance.
 
 **Dimensions**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dimensions, on the other hand, provide context to your metrics. They are the qualitative aspects of your data that help you segment and break down your metrics for deeper insights. Examples of dimensions to include in your Facebook Ads report might be:
 
@@ -86,19 +86,19 @@ The key is to choose metrics and dimensions that align with your specific busine
 
 In the final step, you will be able to choose a metric that you want to sort the report by. You can choose a metric and sort the result by descending or ascending order.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Preview and run report
 
 Once you have configured your Facebook Ads report, you can preview it before importing data into Google Sheets.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the result doesn’t exactly look like the data you want, you can simply close the preview window and change configurations on the sidebar, and preview the result again, until you are happy with the data you get.
 
 Once this is done, close the preview window and click “Run report”.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will then be asked to choose a sheet(tab) and a cell to insert your data.
 
