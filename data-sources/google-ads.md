@@ -11,7 +11,15 @@ This integration enables users to access a wide range of metrics and dimensions 
 
 Please be aware that, in Google Ads API, any tags containing "\_micros" will return currency values in micros. Micros are a unit of measurement representing **`one-millionth`** of the base currency unit. To convert micros to the standard currency format, you'll need to divide the value by 1,000,000.
 
-For example, if a field returns a value of `150000000` micros, the equivalent amount in the account currency would be 150.00.
+When you pull data using tags that include "\_micros," remember to convert the values back to your account's currency. This is a simple division:
+
+**Account Currency Value = Value in Micros / 1,000,000**
+
+For example:
+
+* If `campaign_budget.amount_micros` returns a value of `25000000`, this represents 25.00 in your account's currency.
+
+Keep this in mind when working with cost and budget data in your Google Ads reports to ensure accurate interpretation and analysis.
 {% endhint %}
 
 ### Metrics
