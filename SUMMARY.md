@@ -22,3 +22,4 @@
 
 * [Google Ads](data-sources/google-ads.md)
 * [Facebook Ads](data-sources/facebook-ads.md)
+* [LinkedIn Ads](data-sources/linkedin-ads.md)
