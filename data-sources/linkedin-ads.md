@@ -112,7 +112,7 @@ In LinkedIn Ads, _metrics_ represent the quantitative measurements of your campa
 
 
 
-**Dimensions**
+### **Dimensions**
 
 _Dimensions_ in LinkedIn Ads provide context to your metrics. They allow you to segment your data and analyze performance across different categories. Dimensions are essentially the attributes that describe your data, allowing you to break down your metrics by various criteria.&#x20;
 
