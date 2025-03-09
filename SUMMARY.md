@@ -22,5 +22,11 @@
 
 * [Google Ads](data-sources/google-ads.md)
 * [Google Analytics](data-sources/google-analytics.md)
+* [Google Search Console](data-sources/google-search-console.md)
 * [Facebook Ads](data-sources/facebook-ads.md)
+* [Notion](data-sources/notion.md)
 * [LinkedIn Ads](data-sources/linkedin-ads.md)
+* [Hubspot](data-sources/hubspot.md)
+* [Shopify](data-sources/shopify.md)
+* [Airtable](data-sources/airtable.md)
+* [Pipedrive](data-sources/pipedrive.md)
