@@ -11,6 +11,7 @@
 
 * [Queries in current spreadsheet](queries-in-current-spreadsheet.md)
 * [Saved queries](saved-queries.md)
+* [Database connection](database-connection.md)
 
 ## Data sources
 
@@ -24,6 +25,11 @@
 * [Shopify](data-sources/shopify.md)
 * [Airtable](data-sources/airtable.md)
 * [Pipedrive](data-sources/pipedrive.md)
+
+***
+
+* [PostgreSQL](postgresql.md)
+* [MySQL](mysql.md)
 
 ## Guides
 
