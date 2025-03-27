@@ -1,6 +1,6 @@
 # AI Summary
 
-The "AI Summary" feature in Uniquery allows users to generate summaries of their data using AI services, such as OpenAI. This feature can be enabled when creating or editing a run. Below are the steps to configure and use this feature.
+The "AI Summary" feature in Uniquery allows users to generate summaries of their data using AI services, such as OpenAI. This feature can be enabled when creating or editing a run/query. Below are the steps to configure and use this feature.
 
 {% hint style="warning" %}
 When enabling the AI Summary feature in Uniquery, it is important to acknowledge the potential costs associated with using third-party AI services.&#x20;
