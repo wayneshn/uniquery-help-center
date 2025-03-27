@@ -14,6 +14,7 @@
 * [Saved queries](saved-queries.md)
 * [AI Summary](ai-summary.md)
 * [Database connection](database-connection.md)
+* [All data sources](all-data-sources.md)
 
 ## Data sources
 
