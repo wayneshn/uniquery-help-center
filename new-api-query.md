@@ -55,7 +55,7 @@ Headers provide metadata about your request, such as content type or authorizati
    * **Value**: `customValue`
    * **Description**: This is an example of a custom header that might be required by some APIs for specific configurations or custom settings.
 
-### **Step 4: Add an OAuth 2.0 Connection (Optional)**
+#### **Step 4: Add an OAuth 2.0 Connection (Optional)**
 
 &#x20;If your API requires OAuth 2.0 authentication, click on the "Add an OAuth2 Connection" button. Follow the prompts to select and authorize the OAuth connection. This step ensures that your API query is authenticated securely.
 
