@@ -12,6 +12,7 @@
 * [New API query](new-api-query.md)
 * [Queries in current spreadsheet](queries-in-current-spreadsheet.md)
 * [Saved queries](saved-queries.md)
+* [AI Summary](ai-summary.md)
 * [Database connection](database-connection.md)
 
 ## Data sources
