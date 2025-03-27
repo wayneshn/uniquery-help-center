@@ -9,6 +9,7 @@
 
 ***
 
+* [New API query](new-api-query.md)
 * [Queries in current spreadsheet](queries-in-current-spreadsheet.md)
 * [Saved queries](saved-queries.md)
 * [Database connection](database-connection.md)
