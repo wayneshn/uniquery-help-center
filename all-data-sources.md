@@ -2,7 +2,6 @@
 
 On this page, you can check out all data sources supported by Uniquery.
 
-* [Custom API connection](new-api-query.md)
 * [Google Ads](https://help.uniquery.io/data-sources/google-ads)
 * [Google Analytics](https://help.uniquery.io/data-sources/google-analytics)
 * [Google Search Console](https://help.uniquery.io/data-sources/google-search-console)
@@ -15,5 +14,6 @@ On this page, you can check out all data sources supported by Uniquery.
 * [Pipedrive](https://help.uniquery.io/data-sources/pipedrive)
 * [PostgreSQL](https://help.uniquery.io/postgresql)
 * [MySQL](https://help.uniquery.io/mysql)
+* And hundreds of other data sources enabled by [Custom API connection](new-api-query.md) and [OAuth authorization](basics/manage-connections.md)
 
 \
