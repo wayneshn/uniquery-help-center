@@ -43,3 +43,4 @@
 ## 🔎 FAQs
 
 * [Multiple account issues](faqs/multiple-account-issues.md)
+* [Account and license](faqs/account-and-license.md)
