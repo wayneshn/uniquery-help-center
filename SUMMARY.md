@@ -44,3 +44,4 @@
 
 * [Multiple account issues](faqs/multiple-account-issues.md)
 * [Account and license](faqs/account-and-license.md)
+* [Data security](faqs/data-security.md)
