@@ -2,7 +2,7 @@
 
 The "In this spreadsheet" tab in Uniquery allows users to view and manage all queries that run in the current Google Sheets file. This includes both generated reports and API queries. The tab provides detailed information about each query, making it easier to monitor and maintain data connections.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Viewing Queries
 

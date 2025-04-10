@@ -25,7 +25,7 @@ Uniquery is a [Google Sheets addon](https://workspace.google.com/marketplace/app
 
 **3. Search in Google Workspace Marketplace**: In the search bar, type “Uniquery” and select the first app that appears.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **4. Install Uniquery**: Follow the on-screen prompts to install the add-on.
 

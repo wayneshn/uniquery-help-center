@@ -12,7 +12,7 @@ Integrating Notion with Google Sheets is a powerful way to automate and streamli
 
 1. Within the Uniquery panel, locate and open the menu to **Create “OAuth2 connection”**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * This option is designed to securely manage the authentication required to connect with external services like Notion.
 

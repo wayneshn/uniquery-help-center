@@ -2,7 +2,7 @@
 
 Uniquery offers a powerful solution for integrating external data into Google Sheets through its API Connection feature. This tool allows users to connect seamlessly to various API endpoints, enabling automatic data updates and efficient data management. The key aspects of this feature are outlined in detail below.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### OAuth 2.0 Support and Pagination Handling&#x20;
 

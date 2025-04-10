@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Basics
+## 📚 Basics
 
 * [How Uniquery works?](basics/how-uniquery-works.md)
 * [Manage connections](basics/manage-connections.md)
@@ -16,7 +16,7 @@
 * [Database connection](database-connection.md)
 * [All data sources](all-data-sources.md)
 
-## Data sources
+## 🔭 Data sources
 
 * [Google Ads](data-sources/google-ads.md)
 * [Google Analytics](data-sources/google-analytics.md)
@@ -34,8 +34,12 @@
 * [PostgreSQL](postgresql.md)
 * [MySQL](mysql.md)
 
-## Guides
+## 🌍 Guides
 
 * [Create your first API query](guides/create-your-first-api-query.md)
 * [Import Facebook Ads data](guides/import-facebook-ads-data.md)
 * [Connect to Notion](guides/connect-to-notion.md)
+
+## 🔎 FAQs
+
+* [Multiple account issues](faqs/multiple-account-issues.md)
